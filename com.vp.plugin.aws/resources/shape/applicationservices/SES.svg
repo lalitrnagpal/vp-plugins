@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  version="1.1" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 width="100" height="100" viewBox="250 -14 100 100" enable-background="new 250 -14 100 100" xml:space="preserve">
+<defs>
+</defs>
+<polygon fill="#876929" points="283.736,11.48 269.131,34.73 283.736,58.127 "/>
+<polygon fill="#D9A741" points="300.045,53.805 283.735,57.984 283.735,11.48 300.045,15.658 "/>
+<polygon fill="#876929" points="311.926,29.451 319.486,40.268 330.863,17.332 323.002,18.632 "/>
+<polygon fill="#876929" points="309.867,29.83 319.486,29.266 304.953,0 295.98,3.929 "/>
+<polygon fill="#D9A741" points="304.953,0 328.992,12.019 319.486,29.267 "/>
+<polygon fill="#D9A741" points="330.863,17.332 330.869,56.576 300.045,72 300.041,4.988 319.486,40.268 "/>
+<polygon fill="#876929" points="300.041,4.988 300.045,72 290.813,67.381 290.813,8.675 300.037,4.988 "/>
+<text transform="matrix(1 0 0 1 0 29.2002)" display="none" enable-background="new    " font-family="'MyriadPro-Regular'" font-size="12">  &lt;nyt_base_path&gt;~/Desktop/wip/Architecture%20Icons%20-%20Update%20all%20customer-facing%20files%20/AWS-Simple-Icons%202/App%20Services/EPS&lt;/nyt_base_path&gt;</text>
+<text transform="matrix(1 0 0 1 0 86.7998)" display="none" enable-background="new    " font-family="'MyriadPro-Regular'" font-size="12">  &lt;nyt_export_code&gt;artboards&lt;/nyt_export_code&gt;</text>
+</svg>

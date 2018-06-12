@@ -1,0 +1,8 @@
+<plugin
+		id="com.vp.plugin.sample.projectopened"
+		name="Project Opened"
+		description="Project Opened"
+		provider="Visual Paradigm"
+		class="com.vp.plugin.sample.projectopened.ProjectOpenedPlugin">
+		
+</plugin>

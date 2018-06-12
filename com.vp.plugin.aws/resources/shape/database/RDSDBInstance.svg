@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  version="1.1" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 width="100" height="100" viewBox="-27.9 -21.6 100 100" enable-background="new -27.9 -21.6 100 100" xml:space="preserve">
+<defs>
+</defs>
+<path id="SVGID_4_" fill="#1A476F" d="M44.1,4.6v2.3c0,3.1-9.8,5.6-22,5.6c-12.1,0-22-2.5-22-5.6V4.6c0,3.1,9.8,5.6,22,5.6
+	S44.1,7.7,44.1,4.6z"/>
+<g>
+	<defs>
+		<path id="XMLID_1_" d="M44.1,4.6v2.3c0,3.1-9.8,5.6-22,5.6c-12.1,0-22-2.5-22-5.6V4.6c0,3.1,9.8,5.6,22,5.6S44.1,7.7,44.1,4.6z"/>
+	</defs>
+	<clipPath id="XMLID_8_">
+		<use xlink:href="#XMLID_1_" />
+	</clipPath>
+	<g clip-path="url(#XMLID_8_)" enable-background="new    ">
+		<path fill="#1A476F" d="M44.1,4.6v2.3c0,0.1,0,0.1,0,0.2V4.8C44.1,4.7,44.1,4.7,44.1,4.6"/>
+		<path fill="#1A476F" d="M44.1,4.8v2.3c0,0.1,0,0.2-0.1,0.3V5.1C44,5,44.1,4.9,44.1,4.8"/>
+		<path fill="#1A476F" d="M44,5.1v2.3c0,0.1-0.101,0.2-0.2,0.3V5.4C43.9,5.3,44,5.2,44,5.1"/>
+		<path fill="#1A476F" d="M43.9,5.4v2.3c-1.6,2.8-10.8,4.8-21.8,4.8c-12.1,0-22-2.5-22-5.6V4.6c0,3.1,9.8,5.6,22,5.6
+			C33.1,10.2,42.3,8.1,43.9,5.4"/>
+	</g>
+</g>
+<path fill="#2D72B8" d="M22.1,0c12.1,0,22,2.5,22,5.6c0,3.1-9.8,5.6-22,5.6c-12.1,0-22-2.5-22-5.6C0.2,2.5,10,0,22.1,0z"/>
+<path id="SVGID_2_" fill="#1A476F" d="M44,47.1v2.3c0,3.6-9.9,6.5-22,6.5S0,53,0,49.5v-2.3c0,3.601,9.8,6.4,22,6.4
+	C34.2,53.5,44,50.6,44,47.1z"/>
+<g>
+	<defs>
+		<path id="XMLID_11_" d="M44,47.1v2.3c0,3.6-9.9,6.5-22,6.5S0,53,0,49.5v-2.3c0,3.601,9.8,6.4,22,6.4C34.2,53.5,44,50.6,44,47.1z"
+			/>
+	</defs>
+	<clipPath id="XMLID_9_">
+		<use xlink:href="#XMLID_11_" />
+	</clipPath>
+	<g clip-path="url(#XMLID_9_)" enable-background="new    ">
+		<path fill="#1A476F" d="M44,47.1v2.3c0,0.1,0,0.2,0,0.3v-2.3C44,47.3,44,47.2,44,47.1"/>
+		<path fill="#1A476F" d="M44,47.3v2.3C44,49.7,43.9,49.8,43.9,50v-2.3C44,47.6,44,47.5,44,47.3"/>
+		<path fill="#1A476F" d="M43.9,47.7V50c-0.1,0.101-0.1,0.301-0.2,0.4v-2.3C43.8,48,43.9,47.9,43.9,47.7"/>
+		<path fill="#1A476F" d="M43.7,48.1v2.3c-1.8,3.1-10.8,5.4-21.7,5.4c-12.1,0-22-2.9-22-6.4v-2.3C0,50.7,9.8,53.5,22,53.5
+			C32.9,53.5,42,51.2,43.7,48.1"/>
+	</g>
+</g>
+<path fill="#2D72B8" d="M44,10.2c-1.2,3.4-9.801,5.4-22,5.4C9.9,15.6,1.7,13.3,0.1,10v38.1c0,3.6,9.8,6.399,22,6.399
+	c12.1,0,22-2.899,22-6.399L44,10.2z"/>
+<path fill="#FFFFFF" d="M7.8,21.9H16l6.2,18.2h0.1L28.2,21.9h8.2v26.5h-5.5V29.6h-0.1l-6.5,18.7h-4.5L13.3,29.7h-0.1V48.3H7.7
+	L7.8,21.9L7.8,21.9z"/>
+</svg>

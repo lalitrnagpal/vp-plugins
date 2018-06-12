@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  version="1.1" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 width="100" height="100" viewBox="-22.6 -21.6 100 100" enable-background="new -22.6 -21.6 100 100" xml:space="preserve">
+<defs>
+</defs>
+<rect y="30.8" fill="#2D72B8" width="25.7" height="23.6"/>
+<rect y="53.5" fill="#1A476F" width="25.7" height="2.4"/>
+<rect x="30.1" fill="#2D72B8" width="24.7" height="25.2"/>
+<rect x="30.1" y="24.2" fill="#1A476F" width="24.7" height="2.4"/>
+<path fill="#2D72B8" d="M25.7,25.2H0V0h25.7V25.2z"/>
+<rect y="24.2" fill="#1A476F" width="25.7" height="2.4"/>
+<rect x="30.1" y="30.8" fill="#2D72B8" width="24.7" height="23.6"/>
+<rect x="30.1" y="53.5" fill="#1A476F" width="24.7" height="2.4"/>
+<ellipse fill="#FFFFFF" cx="13" cy="11.7" rx="8.5" ry="8.4"/>
+</svg>

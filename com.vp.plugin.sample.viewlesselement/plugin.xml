@@ -1,0 +1,32 @@
+<plugin
+	id="%plugin.id"
+	name="%plugin.name"
+	description="%plugin.description"
+	provider="Visual Paradigm"
+	class="%plugin.class"
+>
+	<runtime>
+		<library path="classes" relativePath="true"/>
+	</runtime>
+	
+	<actionSets>
+		<actionSet id="com.vp.plugin.sample.viewlesselementreporter.actionSet1">
+			<toolbar
+				id="com.vp.plugin.sample.viewlesselementreporter.toolbar1"
+				orientation="north"
+				index="last"/>
+			<action
+				id="com.vp.plugin.sample.viewlesselementreporter.actionSet1.geneateAction"
+				actionType="generalAction"
+				label="Viewless Element Reporter"
+				tooltip="Viewless Element Reporter"
+				style="normal"
+				menuPath="Tools/#"
+				icon="icons/star.gif"
+				toolbarPath="com.vp.plugin.sample.viewlesselementreporter.toolbar1/#">
+				<actionController class="com.vp.plugin.sample.viewlesselementreporter.actionSet.ActionController"/>
+			</action>
+		</actionSet>
+		
+	</actionSets>
+</plugin>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<g>
+	<g>
+		<g enable-background="new    ">
+			<g>
+				<defs>
+					<path id="SVGID_231_" d="M69.992,71.76v2.502c0,1.637-1.338,2.979-3,2.979v-2.498C68.654,74.742,69.992,73.398,69.992,71.76z"
+						/>
+				</defs>
+				<use xlink:href="#SVGID_231_"  overflow="visible" fill="#484A4B"/>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_231_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_2_)" enable-background="new    ">
+					<path fill="#484A4B" d="M69.992,71.76v2.502c0,0.146-0.01,0.285-0.031,0.426v-2.504C69.982,72.045,69.992,71.902,69.992,71.76"
+						/>
+					<path fill="#484A4B" d="M69.961,72.184v2.504c-0.021,0.164-0.059,0.326-0.109,0.479v-2.502
+						C69.902,72.508,69.939,72.35,69.961,72.184"/>
+					<path fill="#484A4B" d="M69.852,72.664v2.502c-0.059,0.184-0.135,0.359-0.227,0.523v-2.498
+						C69.717,73.021,69.793,72.848,69.852,72.664"/>
+					<path fill="#484A4B" d="M69.625,73.191v2.498c-0.51,0.924-1.496,1.551-2.633,1.551v-2.498
+						C68.129,74.742,69.115,74.111,69.625,73.191"/>
+				</g>
+			</g>
+			<g>
+				<polygon fill="#484A4B" points="68.277,74.227 66.992,77.24 32.229,77.24 31.402,74.102 				"/>
+			</g>
+			<g>
+				<defs>
+					<path id="SVGID_233_" d="M32.229,74.742v2.498c-1.664,0-3.002-1.342-3.002-2.979V71.76
+						C29.227,73.398,30.564,74.742,32.229,74.742z"/>
+				</defs>
+				<use xlink:href="#SVGID_233_"  overflow="visible" fill="#484A4B"/>
+				<clipPath id="SVGID_4_">
+					<use xlink:href="#SVGID_233_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_4_)" enable-background="new    ">
+					<path fill="#484A4B" d="M32.229,74.742v2.498c-1.664,0-3.002-1.342-3.002-2.979V71.76
+						C29.227,73.398,30.564,74.742,32.229,74.742"/>
+				</g>
+			</g>
+			<g>
+				<path fill="#6D6F71" d="M66.992,21.398c1.662,0,3,1.332,3,2.967V71.76c0,1.639-1.338,2.982-3,2.982H32.229
+					c-1.664,0-3.002-1.344-3.002-2.982V24.365c0-1.635,1.338-2.967,3.002-2.967H66.992z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<path fill="#FFFFFF" d="M63.719,43.916H35.494v-3.312h28.225V43.916z M63.719,38.305H35.494V34.99h28.225V38.305z M63.719,32.43
+			H35.494v-3.314h28.225V32.43z"/>
+	</g>
+</g>
+</svg>

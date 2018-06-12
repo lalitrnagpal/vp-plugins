@@ -1,0 +1,23 @@
+<plugin
+	id="sample.genflowofevents"
+	name="Generate Flow of Events Report"
+	description="Generate an HTML report of use case flow of events."
+	provider="Visual Paradigm"
+	class="sample.genflowofevents.GenFlowOfEvents">
+        
+	<actionSets>
+		<actionSet id="sample.genflowofevents.actionset">
+			<action 
+				id="sample.genflowofevents.actions.GenFlowOfEventsActionController"
+				actionType="generalAction"
+				label="Generate Flow of Events Report"
+				tooltip="Generate Flow of Events Report"
+				style="normal"
+				menuPath="Tools/Report">
+				<actionController 
+					class="sample.genflowofevents.actions.GenFlowOfEventsActionController"/>
+			</action>
+		</actionSet>
+	</actionSets>
+</plugin>
+

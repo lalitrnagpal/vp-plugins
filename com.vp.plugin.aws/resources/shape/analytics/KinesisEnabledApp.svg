@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  version="1.1"
+	 id="Layer_1" xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" xmlns:ev="http://www.w3.org/2001/xml-events"
+	 xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="120.625" height="70.195" viewBox="0 0 120.625 70.195"
+	 overflow="visible" enable-background="new 0 0 120.625 70.195" xml:space="preserve">
+<v:documentProperties  v:viewMarkup="false" v:langID="1033"></v:documentProperties>
+<title>Kinesis-enabled application</title>
+<g id="group2-2" transform="translate(38.125,-23.375)">
+	<title>Sheet.2</title>
+	<g id="group3-3">
+		<title>Sheet.3</title>
+		<g id="shape4-4" transform="translate(-2.15827E-013,-2.57025)">
+			<title>Sheet.4</title>
+			<path fill="#9D5025" d="M40.5,52.25V30.32c0-2.07-3.79-1.5-5.869-1.5L4.58,26.7c-2.08,0-3.83,1.74-3.83,3.81v35.06
+				c0,2.07,1.75,3.88,3.83,3.88c0,0,18.891-7.47,18.91-10.11C23.5,56.69,29.75,46.95,40.5,52.25z"/>
+		</g>
+		<g id="shape5-6" transform="translate(25.1198,2.27374E-013)">
+			<title>Sheet.5</title>
+			<path fill="#9D5025" d="M19.021,58.81c0,7.19-4.091,10.64-9.141,10.64c-5.04,0-9.13-3.2-9.13-10.07c0-5.05,4.09-7.45,9.13-7.45
+				C14.93,51.93,19.021,53.77,19.021,58.81z"/>
+		</g>
+		<g id="shape6-8" transform="translate(0.066,-2.6025)">
+			<title>Sheet.6</title>
+			<path fill="#9D5025" d="M4.33,67.22v2.23c-1.98,0-3.58-1.59-3.58-3.551V63.67C0.75,65.63,2.35,67.22,4.33,67.22z"/>
+		</g>
+		<g id="shape7-10" transform="translate(0.066,-2.6025)">
+			<title>Sheet.7</title>
+			<path fill="#9D5025" d="M4.33,67.22v2.23c-1.98,0-3.58-1.59-3.58-3.551V63.67C0.75,65.63,2.35,67.22,4.33,67.22z"/>
+		</g>
+		<g id="shape8-12" transform="translate(25.1198,-1.5)">
+			<title>Sheet.8</title>
+			<ellipse fill="#F58536" cx="9.883" cy="60.313" rx="9.133" ry="9.133"/>
+		</g>
+		<g id="shape9-14" transform="translate(30.282,-1.44263)">
+			<title>Sheet.9</title>
+			<desc>K</desc>
+			<v:textBlock  v:margins="rect(0,0,0,0)"></v:textBlock>
+			<v:textRect  cx="6.75" cy="62.0953" width="13.5" height="16.2"></v:textRect>
+			<rect x="0.75" y="53.245" fill="none" width="13.5" height="16.2"/>
+			
+				<text transform="matrix(1 0 0 1 0.7502 65.3997)" fill="#FFFFFF" enable-background="new    " font-family="'Calibri'" font-size="13.5">K<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+		</g>
+		<g id="shape10-17" transform="translate(2.6025,-2.57025)">
+			<title>Sheet.10</title>
+			<path fill="#9D5025" d="M22.06,67L0.75,66.66l1.04,2.79h21.87C23.04,68.7,22.5,67.87,22.06,67z"/>
+		</g>
+		<g id="shape11-19" transform="translate(-2.15827E-013,-4.82025)">
+			<title>Sheet.11</title>
+			<path fill="#F58536" d="M23.32,63.64c0-6.87,5.449-12.44,12.32-12.44c1.77,0,3.359,0.38,4.859,1.04V32.57
+				c0-1.97-1.359-3.62-3.34-3.62H4.39c-1.98,0-3.64,1.65-3.64,3.62v33.31c0,1.97,1.66,3.57,3.64,3.57h20.37
+				C23.84,67.95,23.32,65.74,23.32,63.64z"/>
+		</g>
+	</g>
+</g>
+</svg>

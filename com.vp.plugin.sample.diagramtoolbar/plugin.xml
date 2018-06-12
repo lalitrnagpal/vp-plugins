@@ -1,0 +1,23 @@
+<plugin
+		id="com.vp.plugin.sample.diagramtoolbar"
+		name="Sample of Diagram Toolbar Button"
+		description="Sample of Diagram Toolbar Button"
+		provider="Visual Paradigm"
+		class="com.vp.plugin.sample.diagramtoolbar.DiagramToolbarButtonPlugin">
+		
+	<actionSets>
+		<actionSet id="com.vp.plugin.sample.diagramtoolbar.actionset1">
+			<action
+					id="com.vp.plugin.sample.diagramtoolbar.actionset1.CreateSingletonClass"
+					actionType="shapeModelAction"
+					label="Singleton Class"
+					tooltip="Singleton Class"
+					style="normal"
+					icon="icons/singletonClass.png"
+					editorToolbarPath="com.vp.diagram.ClassDiagram/Class">
+				<shapeModelCreatorInfo
+						controllerClass="com.vp.plugin.sample.diagramtoolbar.actions.CreateSingletonClassActionController"/>
+			</action>
+		</actionSet>
+	</actionSets>	
+</plugin>

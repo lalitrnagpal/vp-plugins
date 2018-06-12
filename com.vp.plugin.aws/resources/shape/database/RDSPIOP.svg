@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  version="1.1" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 width="100" height="100" viewBox="-23.5 -22.5 100 100" enable-background="new -23.5 -22.5 100 100" xml:space="preserve">
+<defs>
+</defs>
+<path fill="#1A476F" d="M0.1,48c0,0-0.8,6,4,6C8.9,54,49,54,49,54s3.7-0.8,4-5.4L0.1,48z"/>
+<path fill="#2D72B8" d="M53,49c0,2.2-1.8,4-4,4H4c-2.2,0-4-1.8-4-4V4c0-2.2,1.8-4,4-4h45c2.2,0,4,1.8,4,4V49z"/>
+<path fill="#FFFFFF" stroke="#19486F" stroke-miterlimit="10" d="M49.5,44.5c0,2.2-1.8,4-4,4h-19c-2.2,0-4-1.8-4-4v-6
+	c0-2.2,1.8-4,4-4h19c2.2,0,4,1.8,4,4V44.5z"/>
+<text transform="matrix(1 0 0 1 25.8105 45.6904)" fill="#2D72B8" font-family="'ArialMT'" font-size="11">PIOP</text>
+</svg>

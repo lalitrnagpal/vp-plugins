@@ -1,0 +1,20 @@
+<plugin
+		id="com.vp.plugin.sample.samplecommunicationdiagram"
+		name="Generate Sample Communication Diagram"
+		description="Generate Sample Communication Diagram"
+		provider="Visual Paradigm"
+		class="com.vp.plugin.sample.samplecommunicationdiagram.GenerateSampleCommunicationDiagramPlugin">
+		
+	<actionSets>
+		<actionSet id="com.vp.plugin.sample.samplecommunicationdiagram.actionset">
+			<action
+					id="com.vp.plugin.sample.samplecommunicationdiagram.actionset.GenerateSampleCommunicationDiagramAction"
+					label="Generate Sample Communication Diagram"
+					menuPath="Modeling/#"
+					icon="icons/generateSampleCommunicationDiagram.png">
+				<actionController class="com.vp.plugin.sample.samplecommunicationdiagram.actions.GenerateSampleCommunicationDiagramActionController"/>
+			</action>
+		</actionSet>
+	</actionSets>
+		
+</plugin>

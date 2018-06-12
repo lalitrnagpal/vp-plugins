@@ -1,0 +1,23 @@
+<plugin
+		id="com.vp.plugin.sample.samplesequencediagram"
+		name="Generate Sample Sequence Diagram"
+		description="Generate Sample Sequence Diagram"
+		provider="Visual Paradigm"
+		class="com.vp.plugin.sample.samplesequencediagram.GenerateSampleSequenceDiagramPlugin">
+		
+	<actionSets>
+		<contextSensitiveActionSet id="com.vp.plugin.sample.samplesequencediagram.actionset">
+			<contextTypes all="false">
+				<include type="InteractionDiagram"/> <!-- Sequence Diagram is called "InteractionDiagram" in VP-UML -->
+			</contextTypes>
+			<action
+					id="com.vp.plugin.sample.samplesequencediagram.actionset.GenerateSampleSequenceDiagramAction"
+					label="Generate Sample Diagram"
+					menuPath="OpenSpecification"
+					icon="icons/generateSampleSequenceDiagram.png">
+				<actionController class="com.vp.plugin.sample.samplesequencediagram.actions.GenerateSampleSequenceDiagramActionController"/>
+			</action>
+		</contextSensitiveActionSet>
+	</actionSets>
+		
+</plugin>

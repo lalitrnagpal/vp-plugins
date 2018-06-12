@@ -1,0 +1,29 @@
+<plugin
+		id="com.vp.plugin.sample.shortcut"
+		name="Plugin with Shortcut Key"
+		description="Trigger plugin with shortcut key"
+		provider="Visual Paradigm"
+		class="com.vp.plugin.sample.shortcut.ShortcutPlugin">
+	
+	<actionSets>
+		<actionSet id="com.vp.plugin.sample.shortcut.actionset1">
+			<toolbar
+					id="com.vp.plugin.sample.shortcut.actionset1.toolbar1"
+					orientation="north"
+					index="last"/>
+			
+			<action
+					id="com.vp.plugin.sample.shortcut.actionset1.ShortcutActionControl"
+					actionType="generalAction"
+					label="Plugin with Shortcut Key"
+					tooltip="Trigger plugin with shortcut key"
+					style="normal"
+          hotkey="Ctrl+Alt+Shift+1"
+					toolbarPath="com.vp.plugin.sample.shortcut.actionset1.toolbar1/#">
+				<actionController class="com.vp.plugin.sample.shortcut.actions.ShortcutActionControl"/>
+			</action>
+			
+		</actionSet>
+		
+	</actionSets>	
+</plugin>
